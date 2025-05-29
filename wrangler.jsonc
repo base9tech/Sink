@@ -26,5 +26,11 @@
       "binding": "KV",
       "id": "fb3462c4c1ea40f185ca445998335bd8" // IMPORTANT: Change this to your KV namespace ID
     }
+  ],
+  "routes": [
+    {
+      "pattern": "link.base9.tech",
+      "custom_domain": true
+    }
   ]
 }
